@@ -1,0 +1,22 @@
+body{
+  font-family: Poppins;
+}
+.grid{
+  display: grid;
+  grid-template-columns: repeat(var(--columns,10),45px);
+  grid-template-rows: repeat(var(--rows,10),45px);
+  gap: 2px;
+  user-select: none;
+}
+.box{
+  width: 45px;
+  height: 45px;
+  border: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.selected{
+  background-color: rgb(3, 112, 112);
+  color: #fff;
+}
