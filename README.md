@@ -12,7 +12,7 @@ This is a simple React application that demonstrates a selectable grid. Users ca
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: git@github.com:aryavl/selectable-grid.git
 
 ## How to Use
 
