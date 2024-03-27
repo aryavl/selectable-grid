@@ -1,6 +1,6 @@
 # Selectable Grid
 
-![Selectable Grid Demo](https://example.com/path/to/image.png)
+![Selectable Grid Demo](demo.png)
 
 This is a simple React application that demonstrates a selectable grid. Users can click and drag to select multiple boxes in the grid.
 
